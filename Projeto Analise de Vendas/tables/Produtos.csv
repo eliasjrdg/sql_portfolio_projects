@@ -1,0 +1,45 @@
+﻿Cód. Produto;Nome;Código de Barras;Categoria; Custo Unitário ;Fornecedor; Preço Unitário 
+1;   Biscoito Moça 140G     ;7,90E+12;Biscoito;1,70;Nestlé;2,24
+2;Farinha Dona Benta 1KG;7,90E+12;Alimentos Não Perecíveis;2,00;Distribuidor e Região;2,66
+3;Alvejante Vanish 1,5L;7,89E+12;Material de Limpeza;42,50;Distribuidor e Região;50,15
+4;             Nesfit Nestlé 160G;7,90E+12;Biscoito;2,30;Nestlé;2,78
+5;Mouse Inova;7,90E+12;Produtos Tecnológicos;15,00;Inova;19,35
+6;Refrigerante Guaraná 2L;7,90E+12;Bebidas;5,50;Ambev;7,21
+7;   Biscoito Passatempo 130G;7,89E+12;Biscoito;2,30;Nestlé;3,17
+8;Latinha Guaraná 350ml;7,90E+12;Bebidas;2,50;Ambev;3,40
+9;    Shampoo Clear 400ml;7,89E+11;Limpeza Pessoal;7,00;Unilever;8,33
+10;     Sal Cisne 1KG;7,90E+12;Alimentos Não Perecíveis;1,80;Distribuidor e Região;2,32
+11;Arroz Tio João 1KG;7,90E+12;Alimentos Não Perecíveis;4,00;Distribuidor e Região;4,92
+12;Suporte p/Notebook;7,90E+12;Produtos Tecnológicos;40,00;Inova;49,20
+13;Sabão em Pó OMO 400g;7,90E+12;Material de Limpeza;5,00;Unilever;6,55
+14;Notebook Samsung;7,89E+12;Produtos Tecnológicos;1500,00;Tecnologia e CIA;2010,00
+15;Agua sanitária Ypê 1L;7,89E+12;Material de Limpeza;5,70;Distribuidor e Região;7,01
+16;Cookie Nestlé 60G;7,89E+12;Biscoito;1,90;Nestlé;2,51
+17;Nescau 1L;7,90E+12;Bebidas;3,50;Nestlé;4,38
+18;Condicionador Palmolive 350ml;7,90E+12;Limpeza Pessoal;4,00;Distribuidor e Região;4,92
+19;Feijão Carioca 1KG;7,90E+12;Alimentos Não Perecíveis;7,00;Distribuidor e Região;8,54
+20;Pasta de Dente Colgate 50G;7,89E+12;Limpeza Pessoal;2,00;Distribuidor e Região;2,40
+21;Iphone;7,89E+12;Produtos Tecnológicos;2500,00;Tecnologia e CIA;3250,00
+22;        Desodorante Rexona 150ml;7,90E+12;Limpeza Pessoal;10,00;Unilever;12,30
+23;Sabonete Palmolive 90G;7,89E+12;Limpeza Pessoal;0,75;Distribuidor e Região;1,05
+24;Açucar União 1KG;7,89E+12;Alimentos Não Perecíveis;3,00;Distribuidor e Região;3,51
+25;Teclado Multilaser;7,89E+12;Produtos Tecnológicos;40,00;Tecnologia e CIA;54,80
+26;    Redbull 473ml;7,89E+12;Bebidas;6,00;Ambev;7,80
+27;Sabão em Barra Ypê;7,90E+12;Material de Limpeza;4,00;Distribuidor e Região;4,92
+28;       Refrigerante Coca-Cola 2L;7,90E+12;Bebidas;6,50;CocaCola;8,13
+29;Brahma Choop 350ml;7,90E+12;Bebidas;3,00;Ambev;3,78
+30;Budweiser 600ml;7,90E+12;Bebidas;7,00;Ambev;9,24
+31;Corona 355ml;7,90E+12;Bebidas;3,50;Ambev;4,66
+32;         Condicionador Seda 325ml;7,90E+12;Limpeza Pessoal;4,20;Unilever;5,84
+33;Sabonete Dove 90g;7,89E+12;Limpeza Pessoal;1,00;Unilever;1,27
+34;Creme de Pentear Tresemmé 400ml;7,89E+12;Limpeza Pessoal;8,00;Unilever;9,84
+35;        Clear men 2 em 1 200ml;7,89E+12;Limpeza Pessoal;6,50;Unilever;8,32
+36;Closeup 70g;7,89E+12;Limpeza Pessoal;1,20;Unilever;1,44
+37;     Comfort Original 500ml;7,90E+12;Material de Limpeza;8,00;Unilever;10,64
+38;   CIF 450ml;7,90E+12;Material de Limpeza;12,00;Unilever;14,40
+39; Sprite 350ml;7,90E+12;Bebidas;3,00;CocaCola;3,60
+40;Fanta 350ml;7,89E+12;Bebidas;3,00;CocaCola;3,66
+41;Smart Watch;7,90E+12;Produtos Tecnológicos;1000,00;Tecnologia e CIA;1150,00
+42;HeadPhone;7,89E+12;Produtos Tecnológicos;250,00;Tecnologia e CIA;315,00
+43;Xiaomi redmi note 10;7,89E+12;Produtos Tecnológicos;1200,00;Tecnologia e CIA;1500,00
+44;Caixa de Som JBL;7,89E+12;Produtos Tecnológicos;350,00;Tecnologia e CIA;479,50
